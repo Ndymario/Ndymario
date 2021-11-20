@@ -15,6 +15,8 @@ You're a curious one! Have a cookie!
 </div>
 <br>
 
+<!--
+I was gonna have a cool random quote thing, but you can't run JS on GitHub ;-;
 <script>
 function random_quote(){
   let quotes = ['"When in doubt, make it explode!"', '"When life gives you lemons, find the voltage drop across the lemon."', '"GAH HOOOOOOF"', '"Huh. Neat."']
@@ -22,3 +24,4 @@ function random_quote(){
   document.getElementById("random_quote").innerHTML = quotes[number];
 }
 </script>
+-->
