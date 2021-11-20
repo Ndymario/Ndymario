@@ -2,11 +2,11 @@
 You're a curious one! Have a cookie!
 -->
 
-<body onload="random_quote()">
+<body>
 <div align="center">
   <h1>It's-a me, Ndymario!</h1>
-  <p id="random_quote"></p>
-  Hey there! I'm Nolan, or known online as Ndymario. I'm a Cyber Engineer, set to graduate in 2023, who loves programming, gaming, and experementing with technology.
+  <p>"When in doubt, make it explode!"</p>
+  Hey there! I'm Nolan, or known online as Ndymario. I'm a <a style="color: cyan;">Cyber Engineer</a>, set to graduate in <a style="text-decoration: underline; color: yellow;">2023</a>, who loves programming, gaming, and experementing with technology.
 </div>
 <br>
 <div align="center">
@@ -16,7 +16,7 @@ You're a curious one! Have a cookie!
 <br>
 
 <!--
-I was gonna have a cool random quote thing, but you can't run JS on GitHub ;-;
+I was gonna have a cool random quote thing, but you can't run JS on GitHub ;-; (Which makes sense, but still rip)
 <script>
 function random_quote(){
   let quotes = ['"When in doubt, make it explode!"', '"When life gives you lemons, find the voltage drop across the lemon."', '"GAH HOOOOOOF"', '"Huh. Neat."']
