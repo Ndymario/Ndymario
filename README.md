@@ -6,7 +6,7 @@ You're a curious one! Have a cookie!
 <div align="center">
   <h1>It's-a me, Ndymario!</h1>
   <p>"When in doubt, make it explode!"</p>
-  Hey there! I'm Nolan, or known online as Ndymario. I'm a <a style="color: cyan;">Cyber Engineer</a>, set to graduate in <a style="text-decoration: underline; color: yellow;">2023</a>, who loves programming, gaming, and experimenting with technology.
+  Hey there! I'm Nolan, or known online as Ndymario. I'm a <a style="color: cyan;">Cyber Engineer</a> who loves programming, gaming, and experimenting with technology.
 </div>
 <br>
 <div align="center">
