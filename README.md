@@ -10,7 +10,6 @@ You're a curious one! Have a cookie!
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Pepyn0/github-readme-stats"><img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ndymario&theme=midnight-purple&show_icons=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/Pepyn0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndymario&theme=midnight-purple&layout=compact&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&hide_border=true" /></a>
 </div>
 <br>
