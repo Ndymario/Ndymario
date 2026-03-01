@@ -9,9 +9,12 @@ You're a curious one! Have a cookie!
   Hey there! I'm Nolan, or known online as Ndymario. I'm a <a style="color: cyan;">Cyber Engineer</a> who loves programming, gaming, and experimenting with technology.
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/Pepyn0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndymario&theme=midnight-purple&layout=compact&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&hide_border=true" /></a>
-</div>
+  <div align="center">
+    <sub>I used to have my GitHub stats here but it seems like that stopped working?</sub>
+    <br>
+    <br>
+    <p>I really ought to make something cool in this README...hmm.</p>
+  </div>
 <br>
 
 <!--
